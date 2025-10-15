@@ -1,0 +1,15 @@
+{
+  "name": "tp_ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basket.js",
+  "scripts": {
+    "test": "node ./test/testEcommerce.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-filter-repo": "^0.0.30"
+  }
+}
